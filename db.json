@@ -5,9 +5,10 @@
     "title": "https://jsonplaceholder.typicode.com/posts",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
-  "userId": 2s,
+{
+    "userId": 1,
     "id": 1,
     "title": "https://jsonplaceholder.typicode.com/posts",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  }
+  },
   ]
